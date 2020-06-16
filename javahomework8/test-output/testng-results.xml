@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="8836" started-at="2020-06-16T16:02:30 EDT" finished-at="2020-06-16T16:02:39 EDT">
+  <suite name="Default suite" duration-ms="9945" started-at="2020-06-16T17:03:01 EDT" finished-at="2020-06-16T17:03:11 EDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="8836" started-at="2020-06-16T16:02:30 EDT" finished-at="2020-06-16T16:02:39 EDT">
+    <test name="Default test" duration-ms="9945" started-at="2020-06-16T17:03:01 EDT" finished-at="2020-06-16T17:03:11 EDT">
       <class name="gethub.Gethubclass">
-        <test-method status="PASS" signature="openBrowers()[pri:0, instance:gethub.Gethubclass@369f73a2]" name="openBrowers" duration-ms="8799" started-at="2020-06-16T16:02:30 EDT" finished-at="2020-06-16T16:02:39 EDT">
+        <test-method status="PASS" signature="openBrowers()[pri:0, instance:gethub.Gethubclass@369f73a2]" name="openBrowers" duration-ms="9898" started-at="2020-06-16T17:03:01 EDT" finished-at="2020-06-16T17:03:11 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowers -->
